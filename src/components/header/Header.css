@@ -1,0 +1,13 @@
+.header {
+  font-size: 40px;
+  /* font-family: "Courier New", Courier, monospace; */
+  font-weight: 800;
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: 2rem;
+  /* font-weight: bold; */
+  text-decoration: underline;
+}
